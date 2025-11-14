@@ -1,0 +1,7 @@
+{
+  "name": "HerbVision Pro",
+  "description": "An intelligent medicinal herb identification application that simulates a 'treasure detector'. It uses a hybrid AI approach with local TensorFlow.js pre-screening and cloud-based MLLM for precise identification, providing real-time audio and visual feedback.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
